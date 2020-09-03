@@ -12,8 +12,6 @@ C:\Users\ghost\source\repos\Calc\Calc\obj\Debug\EngraveTimer_MarkupCompile.cache
 C:\Users\ghost\source\repos\Calc\Calc\obj\Debug\EngraveTimer.g.resources
 C:\Users\ghost\source\repos\Calc\Calc\obj\Debug\EngraveTimer.exe
 C:\Users\ghost\source\repos\Calc\Calc\obj\Debug\EngraveTimer.pdb
-C:\Users\ghost\source\repos\Calc\Calc\obj\Debug\EngraveTimer_Content.g.cs
-C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\MaterialDB.db
 C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\EntityFramework.dll
 C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\System.Data.SQLite.dll
