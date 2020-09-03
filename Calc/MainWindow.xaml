@@ -46,6 +46,6 @@
         <Label Content="Приблизительное время гравировки -" HorizontalAlignment="Left" Margin="15,80,0,0" VerticalAlignment="Top"/>
         <Label Content="минут(ы)" HorizontalAlignment="Left" Margin="290,80,0,0" VerticalAlignment="Top" Background="{x:Null}"/>
         <Button Content="Очистить" HorizontalAlignment="Left" Margin="222,122,0,0" VerticalAlignment="Top" Width="100" Click="Button_Click_1" Height="29"/>
-        <Image HorizontalAlignment="Left" Height="53" Margin="10,105,0,0" VerticalAlignment="Top" Width="57" Source="icons\1134px-Laser-symbol.png"/>
+        <Image HorizontalAlignment="Left" Height="53" Margin="354,24,0,0" VerticalAlignment="Top" Width="57" Source="icons\1134px-Laser-symbol.png"/>
     </Grid>
 </Window>
