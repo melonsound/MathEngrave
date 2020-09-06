@@ -12,13 +12,3 @@ C:\Users\ghost\source\repos\Calc\Calc\obj\Debug\EngraveTimer_MarkupCompile.cache
 C:\Users\ghost\source\repos\Calc\Calc\obj\Debug\EngraveTimer.g.resources
 C:\Users\ghost\source\repos\Calc\Calc\obj\Debug\EngraveTimer.exe
 C:\Users\ghost\source\repos\Calc\Calc\obj\Debug\EngraveTimer.pdb
-C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\EntityFramework.dll
-C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\System.Data.SQLite.dll
-C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\System.Data.SQLite.EF6.dll
-C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\System.Data.SQLite.Linq.dll
-C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\EntityFramework.xml
-C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\System.Data.SQLite.xml
-C:\Users\ghost\source\repos\Calc\Calc\bin\Debug\System.Data.SQLite.dll.config
-C:\Users\ghost\source\repos\Calc\Calc\obj\Debug\Calc.csproj.CopyComplete
