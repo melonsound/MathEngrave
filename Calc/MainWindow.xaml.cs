@@ -9,7 +9,7 @@ namespace Calc
     /// </summary>
     public partial class MainWindow : Window
     {
-        string messageTitle = "Ошибка!";
+        public readonly string messageTitle = "Ошибка!";
         public MainWindow()
         {
             InitializeComponent();
@@ -29,10 +29,13 @@ namespace Calc
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MathEngrave math = new MathEngrave();
+            //Расчет и вывод на label результат расчетов
 
-            math.height = txtDisplayY.Text;
-            math.length = txtDisplayX.Text;
+            MathEngrave math = new MathEngrave
+            {
+                height = txtDisplayY.Text,
+                length = txtDisplayX.Text
+            };
 
             if (math.height.Length <= 0 || math.length.Length <= 0)
             {
@@ -67,10 +70,8 @@ namespace Calc
         }
         private void MaterialsShow(object sender, RoutedEventArgs e)
         {
-            
-            
+            //TODO: Добавить дополнительное окно с БД материалов
+            //TODO: Произвести рефакторинг в XAML файле главного окна
         }
-
-
     }
 }
