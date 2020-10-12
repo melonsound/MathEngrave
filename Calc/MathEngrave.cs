@@ -8,7 +8,7 @@ namespace Calc
 {
     class MathEngrave
     {
-        public float timeResult;
+        public float timeResult; // Final math result || Окончательный результат расчетов
         float engraveHeadSpeed = 400; // CNC optional parameter  || Скорость движения головоки ЧПУ станка в мм/с
         float verticalOffset = 0.1f; // Head vertical offset of laser engrave CNC || Вертикальное смещение головки 0.1мм
         public string length { get; set; }
